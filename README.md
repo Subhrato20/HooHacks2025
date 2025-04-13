@@ -48,4 +48,4 @@ We run a reverse image search on that concept shoe using the Serp API, grab the 
 - **User accounts & history**: Let users save styles they liked or come back to previous searches.  
 - **E-commerce integrations**: Instead of scraping, directly partner with retailers for cleaner product data and affiliate opportunities.  
 
-We think Outfitted.AI could evolve into a super useful style discovery tool—and we’re excited to keep pushing it.
+Devpost: https://devpost.com/software/outfitted-ai
